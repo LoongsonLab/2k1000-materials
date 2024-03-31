@@ -7,7 +7,7 @@ The vendor has provided many materials for this board, click [here](https://pan.
 
 ## emulator
 
-The qemu emulator is [here](https://github.com/LoongsonLab/2k1000-materials/releases/download/qemu-static-20240126/qemu-2k1000-static.20240126.tar.xz)
+Check latest release of this repository to get the qemu emulator for 2k1000.
 
 Usage: unpack it in /tmp, then follow /tmp/qemu/README.md
 
